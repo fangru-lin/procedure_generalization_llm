@@ -1,0 +1,1 @@
+Install [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory?tab=readme-ov-file), name the environment as 'procedure', then ground this folder in the root directory for relevant scripts.
