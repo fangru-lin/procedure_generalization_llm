@@ -1,6 +1,6 @@
 ## procedure_generalization
 
-This repository contains the code for the paper **“Can Large Language Models Generalize Procedures Across Representations?”** ([arxiv:2602.03542](https://arxiv.org/abs/2602.03542)).
+This repository contains the code for the paper **“[ICML 2026] Can Large Language Models Generalize Procedures Across Representations?”** ([arxiv:2602.03542](https://arxiv.org/abs/2602.03542)).
 
 ### Repository structure
 
