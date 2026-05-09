@@ -81,7 +81,7 @@ This script:
 - Trains `Qwen/Qwen2.5-1.5B-Instruct` on that dataset with LLaMA-Factory.
 - Evaluates the distilled student with `asynchow_eval.py`.
 
-### Running GRP
+### Running GRPO
 
 ```bash
 cd scripts/rl
